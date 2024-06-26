@@ -23,7 +23,7 @@ This project involves the following steps:
 - **sweetviz**: For generating a visual report of the data.
 
 ## Sweetviz Report
-The Sweetviz data exploration report can be viewed [here](https://safina57.github.io/Loan-Prediction/Report.html).
+To view the Sweetviz data exploration report, run the corresponding cell in the Jupyter notebook to display it in your local environment.
 
 ## Installation
 To install the required libraries, run the following command:
